@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rutik-portfolio/static/css/main.9c2e1189.css",
-    "main.js": "/rutik-portfolio/static/js/main.2c93caa2.js",
+    "main.js": "/rutik-portfolio/static/js/main.2ecc10c7.js",
     "static/js/787.624ad79f.chunk.js": "/rutik-portfolio/static/js/787.624ad79f.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/rutik-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/rutikimg2.png": "/rutik-portfolio/static/media/rutikimg2.95370dad5287fa4855cf.png",
@@ -16,11 +16,11 @@
     "static/media/youtube.png": "/rutik-portfolio/static/media/youtube.f2f39472b5d0fb4c9c81.png",
     "index.html": "/rutik-portfolio/index.html",
     "main.9c2e1189.css.map": "/rutik-portfolio/static/css/main.9c2e1189.css.map",
-    "main.2c93caa2.js.map": "/rutik-portfolio/static/js/main.2c93caa2.js.map",
+    "main.2ecc10c7.js.map": "/rutik-portfolio/static/js/main.2ecc10c7.js.map",
     "787.624ad79f.chunk.js.map": "/rutik-portfolio/static/js/787.624ad79f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c2e1189.css",
-    "static/js/main.2c93caa2.js"
+    "static/js/main.2ecc10c7.js"
   ]
 }
