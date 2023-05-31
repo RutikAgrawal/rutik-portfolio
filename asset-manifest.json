@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.a0bf5c53.css",
-    "main.js": "/my-portfolio/static/js/main.9ce9c4d1.js",
-    "static/js/787.624ad79f.chunk.js": "/my-portfolio/static/js/787.624ad79f.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/my-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/rutikimg2.png": "/my-portfolio/static/media/rutikimg2.95370dad5287fa4855cf.png",
-    "static/media/rutikagrawal.pdf": "/my-portfolio/static/media/rutikagrawal.244567c9ebff8be8c0d0.pdf",
-    "static/media/fontawesome-webfont.eot": "/my-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/my-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/my-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/my-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/R.png": "/my-portfolio/static/media/R.09a7d9332f252db6ba05.png",
-    "static/media/github.png": "/my-portfolio/static/media/github.22cfdd1cba253783ce51.png",
-    "static/media/instagram.png": "/my-portfolio/static/media/instagram.81d74f5b76e85ca7cd6a.png",
-    "static/media/youtube.png": "/my-portfolio/static/media/youtube.f2f39472b5d0fb4c9c81.png",
-    "index.html": "/my-portfolio/index.html",
-    "main.a0bf5c53.css.map": "/my-portfolio/static/css/main.a0bf5c53.css.map",
-    "main.9ce9c4d1.js.map": "/my-portfolio/static/js/main.9ce9c4d1.js.map",
-    "787.624ad79f.chunk.js.map": "/my-portfolio/static/js/787.624ad79f.chunk.js.map"
+    "main.css": "/rutik-portfolio/static/css/main.9c2e1189.css",
+    "main.js": "/rutik-portfolio/static/js/main.2c93caa2.js",
+    "static/js/787.624ad79f.chunk.js": "/rutik-portfolio/static/js/787.624ad79f.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/rutik-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/rutikimg2.png": "/rutik-portfolio/static/media/rutikimg2.95370dad5287fa4855cf.png",
+    "static/media/rutikagrawal.pdf": "/rutik-portfolio/static/media/rutikagrawal.244567c9ebff8be8c0d0.pdf",
+    "static/media/fontawesome-webfont.eot": "/rutik-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/rutik-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/rutik-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/rutik-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/R.png": "/rutik-portfolio/static/media/R.09a7d9332f252db6ba05.png",
+    "static/media/github.png": "/rutik-portfolio/static/media/github.22cfdd1cba253783ce51.png",
+    "static/media/instagram.png": "/rutik-portfolio/static/media/instagram.81d74f5b76e85ca7cd6a.png",
+    "static/media/youtube.png": "/rutik-portfolio/static/media/youtube.f2f39472b5d0fb4c9c81.png",
+    "index.html": "/rutik-portfolio/index.html",
+    "main.9c2e1189.css.map": "/rutik-portfolio/static/css/main.9c2e1189.css.map",
+    "main.2c93caa2.js.map": "/rutik-portfolio/static/js/main.2c93caa2.js.map",
+    "787.624ad79f.chunk.js.map": "/rutik-portfolio/static/js/787.624ad79f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0bf5c53.css",
-    "static/js/main.9ce9c4d1.js"
+    "static/css/main.9c2e1189.css",
+    "static/js/main.2c93caa2.js"
   ]
 }
